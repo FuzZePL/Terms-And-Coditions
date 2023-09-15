@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986037500255",
+    "project_id": "donotnote-d6d2b",
+    "storage_bucket": "donotnote-d6d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986037500255:android:5aef6b4782fdd0b5685eea",
+        "android_client_info": {
+          "package_name": "com.three.donotnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvXHgYR4p4qCARJs5u23f9qKWh1Ob5ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
